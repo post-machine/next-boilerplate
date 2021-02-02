@@ -1,9 +1,7 @@
-function Home() {
-  return (
-    <div>
-      <h1>Post Machine - Boilerplate</h1>
-    </div>
-  )
-}
+import Main from 'components/Main';
 
-export default Home;
+export default function Home() {
+  return (
+    <Main />
+  )
+};
