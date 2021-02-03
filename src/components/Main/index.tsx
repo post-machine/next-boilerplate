@@ -6,7 +6,7 @@ export default function Main ({
     return (
         <S.Main>
             <S.Logo>
-                <img src="./post.svg" alt=""/>
+                <img src="/imgs/post.svg" alt=""/>
             </S.Logo>
             <S.Title>{ title }</S.Title>
             <S.List>
